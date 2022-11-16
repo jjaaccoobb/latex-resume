@@ -1,0 +1,33 @@
+INFO:  latexindent.pl version 3.19, 2022-10-30, a script to indent .tex files
+       latexindent.pl lives here: /usr/local/Cellar/latexindent/3.19/libexec/bin/
+       Wed Nov 16 00:43:58 2022
+       Filename: main.tex
+INFO:  Processing switches:
+       -m|--modifylinebreaks: modify line breaks
+       -r|--replacement: replacement mode
+INFO:  Directory for backup files and indent.log:
+       .
+INFO:  Perl modules are being loaded from the following directories:
+       /usr/local/opt/perl/lib/perl5/5.36/FindBin.pm
+       /usr/local/Cellar/latexindent/3.19/libexec/lib/perl5/YAML/Tiny.pm
+       /usr/local/opt/perl/lib/perl5/5.36/File/Copy.pm
+       /usr/local/opt/perl/lib/perl5/5.36/File/Basename.pm
+       /usr/local/opt/perl/lib/perl5/5.36/Getopt/Long.pm
+       /usr/local/Cellar/latexindent/3.19/libexec/lib/perl5/File/HomeDir.pm
+INFO:  LatexIndent perl modules are being loaded from, for example:
+       /usr/local/Cellar/latexindent/3.19/libexec/lib/perl5/LatexIndent/Document.pm
+INFO:  YAML settings read: defaultSettings.yaml
+       Reading defaultSettings.yaml from /usr/local/Cellar/latexindent/3.19/libexec/bin/defaultSettings.yaml
+INFO:  YAML settings read: indentconfig.yaml or .indentconfig.yaml
+       Home directory is /Users/jacob (didn't find either indentconfig.yaml or .indentconfig.yaml)
+       To specify user settings you would put indentconfig.yaml here: /Users/jacob/indentconfig.yaml
+       Alternatively, you can use the hidden file .indentconfig.yaml as: /Users/jacob/.indentconfig.yaml
+INFO:  Phase 1: searching for objects
+INFO:  Phase 2: finding surrounding indentation
+INFO:  Phase 3: indenting objects
+INFO:  Phase 4: final indentation check
+INFO:  Output routine:
+       Not outputting to file; see -w and -o switches for more options.
+       --------------
+INFO:  Please direct all communication/issues to:
+        https://github.com/cmhughes/latexindent.pl

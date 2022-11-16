@@ -1,0 +1,108 @@
+{
+  "homebrew_version": "3.6.7-32-g31758ea",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "loaded_from_api": null,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "bin/latexindent",
+    "libexec/bin/config_data",
+    "libexec/bin/l4p-tmpl",
+    "libexec/bin/latexindent.pl",
+    "libexec/bin/package-stash-conflicts",
+    "libexec/lib/perl5/Log/Log4perl/Layout/PatternLayout/Multiline.pm",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/B/Hooks/EndOfScope/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Class/Data/Inheritable/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Devel/GlobalDestruction/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Devel/StackTrace/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Dist/CheckConflicts/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Eval/Closure/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Exception/Class/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/File/HomeDir/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/File/Which/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Log/Dispatch/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Log/Log4perl/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/MIME/Charset/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/MRO/Compat/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Mac/SystemDirectory/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Module/Build/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Module/Implementation/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Module/Runtime/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Package/Stash/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Package/Stash/XS/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Params/ValidationCompiler/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Role/Tiny/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Specio/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Sub/Exporter/Progressive/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Sub/Identify/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Sub/Quote/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Test/Fatal/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Try/Tiny/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Unicode/LineBreak/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/Variable/Magic/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/XString/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/YAML/Tiny/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/namespace/autoclean/.packlist",
+    "libexec/lib/perl5/darwin-thread-multi-2level/auto/namespace/clean/.packlist"
+  ],
+  "time": 1668587219,
+  "source_modified_time": 1667132707,
+  "compiler": "clang",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+    {
+      "full_name": "ca-certificates",
+      "version": "2022-10-11",
+      "declared_directly": false
+    },
+    {
+      "full_name": "openssl@1.1",
+      "version": "1.1.1s",
+      "declared_directly": false
+    },
+    {
+      "full_name": "berkeley-db",
+      "version": "18.1.40",
+      "declared_directly": false
+    },
+    {
+      "full_name": "gdbm",
+      "version": "1.23",
+      "declared_directly": false
+    },
+    {
+      "full_name": "perl",
+      "version": "5.36.0",
+      "declared_directly": true
+    }
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "3.19",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/latexindent.rb",
+    "tap_git_head": "79d297234ec40c590953553ec5752fac63b3bd8e",
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 10.15.7",
+    "cpu_family": "penryn",
+    "xcode": "12.4",
+    "clt": "12.4.0.0.1.1610135815",
+    "preferred_perl": "5.18"
+  }
+}
